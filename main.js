@@ -8,7 +8,10 @@ const data = {
         5: "The more needlessly complex your CSS is, the more professional you are",
         6: "I spend a lot of time thinking about mixins vs extends",
         7: "Is it !important?",
-        8: "Imagine a frontend made solely from variables and mixins"
+        8: "Imagine a frontend made solely from variables and mixins",
+        9: "Are you pressing the right button combinations?",
+        10: "Have you tried !super-important",
+        11: "It's a feature, not a bug"
     }
 }
 
