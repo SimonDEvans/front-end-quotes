@@ -7,7 +7,8 @@ const data = {
         4: "javascript will take over the world",
         5: "the more needlessly complex your CSS is, the more professional you are",
         6: "I spend a lot of time thinking about mixins vs extends",
-        7: "Is it !important?"
+        7: "Is it !important?",
+        8: "Imagine a frontend made solely from variables and mixins"
     }
 }
 
