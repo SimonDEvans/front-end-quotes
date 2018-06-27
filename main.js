@@ -1,11 +1,11 @@
 // Set quotes
 const data = {
     "quotes": {
-        1: "my name's simon and I know HTML",
-        2: "use clumsyCSS reset",
-        3: "there's a jquery plugin for that",
-        4: "javascript will take over the world",
-        5: "the more needlessly complex your CSS is, the more professional you are",
+        1: "My name's Simon and I know HTML",
+        2: "Use clumsyCSS reset",
+        3: "There's a jQuery plugin for that",
+        4: "Javascript will take over the world",
+        5: "The more needlessly complex your CSS is, the more professional you are",
         6: "I spend a lot of time thinking about mixins vs extends",
         7: "Is it !important?",
         8: "Imagine a frontend made solely from variables and mixins"
