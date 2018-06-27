@@ -28,6 +28,27 @@ p span {
     color: rgba(255, 255, 255, 0.9);
 }
 
+.add-a-quote {
+    position: absolute;
+    top: 22px;
+    right: 20px;
+    background-color: rgba(255, 255, 255, 0.65);
+    color: #1c0272;
+    text-decoration: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 22px;
+    transition: background-color 300ms ease;
+}
+
+.add-a-quote:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
 .meta {
     position: absolute;
     top: 20px;
