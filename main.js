@@ -11,7 +11,11 @@ const data = {
         8: "Imagine a frontend made solely from variables and mixins",
         9: "Are you pressing the right button combinations?",
         10: "Have you tried !super-important",
-        11: "It's a feature, not a bug"
+        11: "It's a feature, not a bug",
+        12: "Go BEM or go home",
+        13: "I really wish there were more React vs Vue comparison articles",
+        14: "If you don't nest your SCSS 10 levels deep, are you even a web developer?",
+        15: "I love third party vendor CSS overrides"
     }
 }
 
