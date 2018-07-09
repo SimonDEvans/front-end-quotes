@@ -16,7 +16,8 @@ const data = {
         13: "I really wish there were more React vs Vue comparison articles",
         14: "If you don't nest your SCSS 10 levels deep, are you even a web developer?",
         15: "I love third party vendor CSS overrides",
-        16: "Just use React"
+        16: "Just use React",
+        17: "Always strive for spiky specificity"
     }
 }
 
