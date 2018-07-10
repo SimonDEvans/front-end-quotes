@@ -17,7 +17,8 @@ const data = {
         14: "If you don't nest your SCSS 10 levels deep, are you even a web developer?",
         15: "I love third party vendor CSS overrides",
         16: "Just use React",
-        17: "Always strive for spiky specificity"
+        17: "Always strive for spiky specificity",
+        18: "Make sure you SMACSS your OOCSS when using ITCSS for your ACSS"
     }
 }
 
