@@ -18,7 +18,8 @@ const data = {
         15: "I love third party vendor CSS overrides",
         16: "Just use React",
         17: "Always strive for spiky specificity",
-        18: "Make sure you SMACSS your OOCSS when using ITCSS for your ACSS"
+        18: "Make sure you SMACSS your OOCSS when using ITCSS for your ACSS",
+        19: "Using at least two grid systems in tandem is the best approach"
     }
 }
 
